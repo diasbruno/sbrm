@@ -1,0 +1,30 @@
+{
+  "name": "sbrm",
+  "version": "0.1.0",
+  "description": "Scope bound resource management (lisp's with pattern, c++'s raii)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasbruno/sbrm.git"
+  },
+  "keywords": [
+    "sbrm",
+    "scope",
+    "resource",
+    "management",
+    "lisp",
+    "with",
+    "withpattern",
+    "lifecycle",
+    "objects"
+  ],
+  "author": "Bruno Dias",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/diasbruno/sbrm/issues"
+  },
+  "homepage": "https://github.com/diasbruno/sbrm#readme"
+}
