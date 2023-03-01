@@ -1,6 +1,6 @@
 {
   "name": "sbrm",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Scope bound resource management (lisp's with pattern, c++'s raii)",
   "main": "index.js",
   "scripts": {
